@@ -37,4 +37,4 @@ Used to create aesthetic gradient effects in the UI, such as on buttons, backgro
 
 📲 This project serves as an excellent example of how modern e-commerce applications operate, providing a user-friendly experience. These technologies enable the creation of a feature-rich and visually appealing app.
 
-<img src="../amazonApp/gif/amazonApp.gif"/>
+<img src="../amazonApp.gif"/>
