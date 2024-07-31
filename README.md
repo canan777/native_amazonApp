@@ -1,5 +1,7 @@
 # native_amazonApp
 
+# native_amazonApp
+
 ✅ native-AmazonApp
 
 📱 A project built with React Native to create an Amazon-like app provides users with a wide range of products in a user-friendly e-commerce platform. This type of application allows users to explore products, make purchases, and manage their accounts. Here are the main features and technologies used in such a project:
